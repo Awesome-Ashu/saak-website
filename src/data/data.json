@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "Inspiring in Innovation Cutting edge solutions",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Advancing the Futurisitic Innovations",
+    "paragraph": "Bringing cutting edge solutions."
   },
   "About": {
     "paragraph": "We are an Enthusiasts, Tech Savvy, and Committed group of people with a vision to Innovate in providing world-class Tech Solutions.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expert Solutions",
+      "Scalable",
+      "Time Bound",
+      "Multidomain Expertise"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Cost Effective",
+      "Innovative",
+      "Responsive",
+      "Adaptability"
     ]
   },
   "Gallery": [
@@ -137,9 +137,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "108 B Block, Shyam Nagar, Kanpur (UP - 208013) ",
+    "phone": "+91 9953207252",
+    "email": "contact@saakvision.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -148,22 +148,23 @@
     {
       "img": "img/features/blockchain.jpg",
       "title": "BlockChain",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Blockchain skills became one of the most sought-after proficiencies in the world with the demand increasing by almost 2,000 percent from 2017 to 2020."
     },
-    {
-      "img": "img/features/crypto.jpg",
-      "title": "Crypto Future",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
+
     {
       "img": "img/features/startups.png",
       "title": "Boom in Indian Start ups",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "India new unicorns hub: 31 unicorns in 2021 and counting."
+    },
+        {
+      "img": "img/features/crypto.png",
+      "title": "Crypto Future",
+      "text": "Even as the Government has delayed cryptocurrency regulation in the country and the RBI is gearing up to introduce India’s own digital currency to counter private virtual currencies."
     },
     {
       "img": "img/features/application.png",
       "title": "World of applications",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "SAAK labs entering into the world of web/mobile app development. A healthy work pipeline to boost the company."
     }
   ]
 }
