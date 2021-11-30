@@ -67,12 +67,12 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-mobile",
+      "icon": "fa fa-mobile-alt",
       "name": "Mobile & Web Apps",
       "text": "We build fast, reliable, secure, and scalable mobile/web apps to cater to Desktop, iOS & Android users."
     },
     {
-      "icon": "fa fa-cloud-download-alt",
+      "icon": "fa fa-cloud-upload-alt",
       "name": "Cloud Applications",
       "text": "Nothing is more cost-effective than hosting services on the AWS cloud. We help our clients to build & host a variety of services on AWS and assist them in optimizing cost for effective operations."
     },
@@ -140,7 +140,7 @@
     "address": "108 B Block, Shyam Nagar, Kanpur (UP - 208013) ",
     "phone": "+91 9953207252",
     "email": "contact@saakvision.com",
-    "facebook": "fb.com",
+    "facebook": "facebook.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
