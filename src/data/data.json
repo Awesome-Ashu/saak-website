@@ -67,17 +67,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-mobile",
       "name": "Mobile & Web Apps",
       "text": "We build fast, reliable, secure, and scalable mobile/web apps to cater to Desktop, iOS & Android users."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-cloud-download-alt",
       "name": "Cloud Applications",
       "text": "Nothing is more cost-effective than hosting services on the AWS cloud. We help our clients to build & host a variety of services on AWS and assist them in optimizing cost for effective operations."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-brain",
       "name": "Machine Learning & AI",
       "text": "We create accurate machine models helping data scientists to make the right decisions for their businesses."
     }
